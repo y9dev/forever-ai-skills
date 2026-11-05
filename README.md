@@ -8,6 +8,6 @@ Personal Claude Code plugin. Skills run as `/y9ever:<skill>`:
 Install locally:
 
 ```
-/plugin marketplace add C:\Usersorever\y9ever
+/plugin marketplace add C:\Users\forever\y9ever
 /plugin install y9ever@y9ever
 ```
