@@ -1,0 +1,11 @@
+{
+  "name": "y9ever",
+  "owner": { "name": "y9ever" },
+  "plugins": [
+    {
+      "name": "y9ever",
+      "source": "./",
+      "description": "Personal skills by y9ever."
+    }
+  ]
+}
